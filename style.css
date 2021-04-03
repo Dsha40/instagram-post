@@ -1,0 +1,74 @@
+body{
+    font-family: Poppins, sans-serif;
+    font-size: small;
+    background-color: black;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    background-color: black;
+}
+
+.container{
+    width: 400px;
+    background-color: white;
+}
+
+img{
+    margin-top: 8px;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+.header{
+    display: flex;
+    margin-bottom: 5px;
+}
+
+#symbol-1,#symbol-2{
+    height: min-content;
+    margin-top: 10px;
+    padding: 4px;
+}
+
+#symbol-1{
+    margin-left: 4px;
+}
+
+#symbol-2{
+    margin-left: 300px;
+}
+
+.topper{
+    margin-top: 5px;
+    line-height: 2px;
+    margin-left: 2px;
+}
+
+.paragrahp{
+    padding: 5px;
+    text-align: justify;
+    margin-right: 10px;
+}
+
+.interaction{
+    padding: 2px;
+}
+
+#figure1{
+    margin-left: 3px;
+}
+
+#figure2{
+    margin-left: 6px;
+}
+
+#figure3{
+    margin-left: 6px;
+}
+
+#figure4{
+    margin-left: 265px;
+}
